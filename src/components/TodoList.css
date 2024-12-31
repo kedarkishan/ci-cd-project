@@ -1,0 +1,11 @@
+.todo-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+.empty-message {
+  color: #888;
+  font-size: 1.2rem;
+}
